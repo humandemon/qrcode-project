@@ -1,0 +1,33 @@
+body{
+    background-color: #ECF2FF;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin: 20px auto 10px;
+    font-weight: bold;
+}
+p{
+    color: grey;
+    padding-bottom: 20px;
+}
+.container{
+    background-color: white;
+    width: 250px;
+    margin: 150px auto 70px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.qr-code{
+    border-radius: 7px;
+    height: 250px;
+    width: 250px;
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
